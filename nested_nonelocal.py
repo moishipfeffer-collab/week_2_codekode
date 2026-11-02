@@ -50,4 +50,4 @@ def make_counter(step):
 1. UnboundLocalError, becouse python thinks it is a variable in the 
 funktion and it dosent have eny value in it
 2. global is on the file not in eny funktion, and nonelocal is in a 
-finktion "above" the current one """
+funktion "above" the current one """
