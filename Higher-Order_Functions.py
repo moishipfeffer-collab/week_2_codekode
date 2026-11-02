@@ -1,5 +1,5 @@
 
-# exercose 1 
+# exercise 1 
 
 def double(number):
     return number * 2
