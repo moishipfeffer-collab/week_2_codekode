@@ -39,10 +39,6 @@ numbers = list(range(5))
 
 # exercise 5 
 
-
-
-
-
 def add(cart: list,price):
     return cart.append(price)
 def total(cart):
